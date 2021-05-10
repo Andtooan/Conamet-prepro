@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Weather app</title>
+  <link rel="stylesheet" href="/stylos/main.css">
+  <link rel="stylesheet" href="/icomoon/style.css">
+</head>
+<body class="body"> 
+
+
+<header>
+  <input id="search" class="search-box" type="text" autocomplete="off" placeholder="Busca tu ciudad...">
+  <button id="searchBtn" class="searchBtn">Buscar</button>
+</header>
+<main>
+  <section class="location">
+    <p id="result"></p>
+    <div class="city"></div>
+    <div class="date">10.Mayo.2021</div>
+  </section>
+  <div class="current">
+    <div class="temp"><span></span><span class="icon-weather-sunny"></span></div>
+    <div id="weather"></div>
+    <div class="hi-low"></div>
+    <button id="paginationY" class="searchBtn2">Ayer</button>
+    <button id="paginationX" class="searchBtn2">Mañana</button>
+  </div>
+</main>
+
+</body>
+
+<script src="./fetch.js"></script>
