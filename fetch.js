@@ -20,7 +20,7 @@ async function search() {
 
         if(!data) {
             return result.innerHTML = `
-             Parece que hubo un error, escriba correctamente su peticion 💙
+             Parece que hubo un error, su ciudad aun no esta disponible 💙
             `
         
         }
