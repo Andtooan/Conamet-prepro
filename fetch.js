@@ -28,7 +28,7 @@ async function search() {
 // js trusthy and falsy values
         return result.innerHTML = `
          Ciudad de ${data.name} esta ${data.skydescriptionlong}
-            y la temperatura es de:${data.tempc} °C 
+            y la temperatura es de: ${data.tempc} °C 
           
     `; 
  
