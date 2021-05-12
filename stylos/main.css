@@ -5,7 +5,7 @@
 }
 .body {
   font-family: 'montserrat', sans-serif;
-  background-image: url('/img/bgg.jpeg');
+  background-image: url('../img/bgg.jpeg');
   background-size:cover no-repeat;
   background-position: top center ;
 }
