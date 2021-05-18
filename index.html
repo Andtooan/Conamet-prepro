@@ -7,12 +7,12 @@
   <link rel="stylesheet" href="./stylos/main.css">
   <link rel="stylesheet" href="./icomoon/style.css">
 </head>
-<body class="body"> 
+<body id="body"> 
 
 
 <header>
   <input id="search" class="search-box" type="text" autocomplete="on" placeholder="Busca tu ciudad...">
-  <button id="searchBtn" class="searchBtn">Buscar</button>
+  <button id="searchBtn" onclick="cambiar();" class="searchBtn">Buscar</button>
 </header>
 <main>
   <section class="location">
@@ -25,10 +25,15 @@
     <div id="weather"></div>
     <div class="hi-low"></div>
     <button id="paginationY" class="searchBtn2">1</button>
-    <button id="paginationX" class="searchBtn2">2</button>
+    
   </div>
 </main>
 
 </body>
-
+script>
+	function cambiar() {
+		document.getElementById('body').style.backgroundImage='url(../img/sunny.jpg)';
+	}
+</script>
 <script src="./fetch.js"></script>
+<script src="./pagination.js"></script>
