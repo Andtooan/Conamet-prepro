@@ -3,13 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
-.body {
+#body {
   font-family: 'montserrat', sans-serif;
   background-image: url('../img/bgg.jpeg');
   background-size:cover no-repeat;
   background-position: top center ;
 }
-.body  img{
+#body  img{
   background-size:cover no-repeat;
   background-position: top center ;
 }
