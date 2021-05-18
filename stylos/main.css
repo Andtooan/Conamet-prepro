@@ -126,7 +126,7 @@ main {
   margin-bottom: 5px;
 }
 .location .date {
-  color: #FFF;
+  color: rgb(0, 0, 0);
   font-size: 16px;
   margin-top: 30px;
 }
