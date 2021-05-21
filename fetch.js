@@ -1,3 +1,5 @@
+alert('Las ciudades disponibles por ahora son 1. Mexicali 2. Tijuana 3. Chihuahua 4. Aguascalientes 5.- Ensenada.                                 Pronto tendremos mas <3');
+
 let searchBtn = document.getElementById('searchBtn');
 const newurl = 'https://api.datos.gob.mx/v1/condiciones-atmosfericas'
 const searchInput = document.getElementById('search')
