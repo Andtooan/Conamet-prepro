@@ -64,7 +64,7 @@ main {
   margin-left: 60px;
   margin-right: 60px;
   border:1px solid rgba(255, 255, 255, 0.18) ;
-  width: auto;
+  width: 100%;
   height: auto;
 
 }
