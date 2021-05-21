@@ -76,8 +76,8 @@ main {
   font-weight: 500;
   margin-bottom: 5px;
   text-shadow: 2px 4px rgba(0, 0, 0, 0.6);
-  min-width: 40px;
-  min-height: 20px;
+  width: auto;
+  height: auto;
 
 }  
 
