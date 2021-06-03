@@ -40,7 +40,7 @@ Resultados de traducción
 - It must be a responsive design
 - Present as main information the state of the climate of the main city of Mexico.
 - The history of climatic data by states presented in the API must be shown in the portal organized by categories and animations must be added to represent the different cystic states (cloudy, sunny ...) 
-- Agregar páginación contenida en el EndPoint
+Add page contained in EndPoint
 - Protipado / Maquetación y desarrollo del portal (Pueden inspirarse de [Dribble](https://dribbble.com/search/shots/popular/web-design?q=weather) u otros portales)
 - Dicho Dashboard debe ser alimentado de la siguiente API:
 [https://api.datos.gob.mx/v1/condiciones-atmosfericas](https://api.datos.gob.mx/v1/condiciones-atmosfericas)
