@@ -35,9 +35,11 @@ https://andtooan.github.io/Conamet-prepro/
 
 ---
 
-- Debe ser un diseño responsive
-- Presentar como información principal el estado del clima de la cuidad principal de Mexico.
-- El historial de datos climático por estados presentado en el API debe ser mostrado en el portal organizados por categorías y deberá agregarse animaciones para representas los diferentes estado cimáticas (nublado, soleado..)
+350 / 5000
+Resultados de traducción
+- It must be a responsive design
+- Present as main information the state of the climate of the main city of Mexico.
+- The history of climatic data by states presented in the API must be shown in the portal organized by categories and animations must be added to represent the different cystic states (cloudy, sunny ...) 
 - Agregar páginación contenida en el EndPoint
 - Protipado / Maquetación y desarrollo del portal (Pueden inspirarse de [Dribble](https://dribbble.com/search/shots/popular/web-design?q=weather) u otros portales)
 - Dicho Dashboard debe ser alimentado de la siguiente API:
