@@ -42,7 +42,7 @@ Resultados de traducción
 - The history of climatic data by states presented in the API must be shown in the portal organized by categories and animations must be added to represent the different cystic states (cloudy, sunny ...) 
 -Add page contained in EndPoint
 - Protyping / Layout and development of the portal (They can be inspired by [Dribble] (https://dribbble.com/search/shots/popular/web-design?    q=weather) or other portals)
-- Dicho Dashboard debe ser alimentado de la siguiente API:
+- Said Dashboard must be powered by the following API:
 [https://api.datos.gob.mx/v1/condiciones-atmosfericas](https://api.datos.gob.mx/v1/condiciones-atmosfericas)
 - Diseñar casos de pruebas y crearlas con Cypress
 
