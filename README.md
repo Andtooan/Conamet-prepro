@@ -35,8 +35,6 @@ https://andtooan.github.io/Conamet-prepro/
 
 ---
 
-350 / 5000
-
 - It must be a responsive design
 - Present as main information the state of the climate of the main city of Mexico.
 - The history of climatic data by states presented in the API must be shown in the portal organized by categories and animations must be added to represent the different cystic states (cloudy, sunny ...) 
