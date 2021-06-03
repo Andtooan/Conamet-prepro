@@ -44,7 +44,7 @@ Resultados de traducción
 - Protyping / Layout and development of the portal (They can be inspired by [Dribble] (https://dribbble.com/search/shots/popular/web-design?    q=weather) or other portals)
 - Said Dashboard must be powered by the following API:
 [https://api.datos.gob.mx/v1/condiciones-atmosfericas](https://api.datos.gob.mx/v1/condiciones-atmosfericas)
-- Diseñar casos de pruebas y crearlas con Cypress
+- Design test cases and create them with Cypress 
 
 ## Authors
 @Antonio Fernandez
