@@ -1,8 +1,7 @@
 # Conamet Web Climatica
 
 About
-El Consejo Nacional de Meteorología de la Ciudad de México (CONAMET) requiere un desarrollo de Dashboard a través del cual los usuarios puedan visualizar de una manera simple y didáctica la información climática.
-
+The National Meteorology Council of Mexico City (CONAMET) requires a Dashboard development through which users can view climate information in a simple and didactic way.
 
 
 ## Tech Stack
